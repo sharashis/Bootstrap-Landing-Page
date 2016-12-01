@@ -1,0 +1,26 @@
+body{  
+    background: url(https://hd.unsplash.com/photo-1444005233317-7fb24f0da789);
+    background-size: cover; 
+    background-position: center;  
+}
+
+#content{
+    text-align: center;
+    padding-top: 25%; 
+    font-family: Lato;
+    color: white;
+}
+html{
+    height: 100%;
+}
+
+#SiteTitle{
+    font-weight: 700;
+    font-size: 5em;
+    text-shadow: 2px 2px 20px #000;
+    
+}
+
+hr{
+    width: 400px;
+}
